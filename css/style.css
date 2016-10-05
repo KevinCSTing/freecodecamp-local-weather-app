@@ -1,0 +1,9 @@
+
+.jumbotron, body{
+  background-color: black;
+}
+.mainDiv{
+  text-align:center;
+   font-family: 'Oswald', sans-serif;
+  color:white;
+}
